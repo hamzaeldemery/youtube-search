@@ -24,9 +24,9 @@ export const VideoDetails = ({ video }) => {
         );
     }
     return (
-        <div class="ui active ">
+        <div className="ui active ">
             <div
-                class="ui large centered inline text loader"
+                className="ui large centered inline text loader"
                 style={{
                     justifyContent: "center",
                     alignItems: "center",
